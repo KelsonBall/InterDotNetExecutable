@@ -1,7 +1,7 @@
 ﻿{
-  "Port": 8080_or_80,
+  "Port": 8080,
   "Home": "localhost",
-  "WebRoot": "your_web_root_directory",
-  "DbRoot": "your_data_models_directory",
-  "ConnectionString":  "Data Source=your_database_file_directory; Version=3;"
+  "WebRoot": "/home/kelson/Documents/Website/web_source",
+  "DbRoot": "/home/kelson/Documents/Website/data_source",
+  "ConnectioNString":  "Data Source=/home/kelson/Documents/Website/data_source/data.sqlite; Version=3;"
 }

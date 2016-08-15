@@ -1,7 +1,0 @@
-﻿{
-  "Port": 8080_or_80,
-  "Home": "localhost",
-  "WebRoot": "your_web_root_directory",
-  "DbRoot": "your_data_models_directory",
-  "ConnectionString":  "Data Source=your_database_file_directory; Version=3;"
-}
